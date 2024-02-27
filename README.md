@@ -1,1 +1,1 @@
-# Pricing-Landing-page
+# landing-page
